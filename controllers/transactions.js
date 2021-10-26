@@ -53,7 +53,7 @@ exports.addTransaction = async (req, res, next) => {
 }
 
 //@desc Delete transactions
-//@route GET /api/v1/transactions/:id
+//@route DELETE /api/v1/transactions/:id
 //@access public
 exports.deleteTransaction = async (req, res, next) => {
     try{
@@ -62,7 +62,7 @@ exports.deleteTransaction = async (req, res, next) => {
         if(!transaction) {
             return res.status(404).json({
                 success: false,
-                error: 'No trnsaction found'
+                error: 'No transaction found'
             });
         }
 
