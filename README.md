@@ -5,9 +5,6 @@
     100DaysOfCode project_ten
     <br />
     </h2>
-    
-   ## Demo
-   View webApp: https://sajustsmile.github.io/Responsive-Portfolio-Website/
    
    ## Quick Start
    - Ensure requirements are met, then execute the following in a terminal.
