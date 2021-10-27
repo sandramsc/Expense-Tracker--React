@@ -20,7 +20,7 @@ if(process.env.NODE_ENV === 'development'){
     app.use(morgan('dev'));
 }
 
-app.use('/api/v1/transactions', transactions)
+app.use('/api/v1/transactions', transactions);
 
 if(process.env.NODE_ENV === 'production') {
     app.use(express.static('client/build'));
