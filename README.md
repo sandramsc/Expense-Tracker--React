@@ -1,6 +1,4 @@
 
-expense tracker with a React frontend and backend designed with Express API and MongoDB (full stack MERN app)
-
 <!-- PROJECT TITLE -->
   <h1 align="center">Expense-Tracker</h1>
  <h2 2 align="center">
