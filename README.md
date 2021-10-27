@@ -9,7 +9,9 @@
    ## Demo
    View webApp: https://sajustsmile.github.io/Responsive-Portfolio-Website/
    
-   ## Usage
+   ## Quick Start
+   - Ensure requirements are met, then execute the following in a terminal.
+   
    npm start
     Starts the development server.
 
