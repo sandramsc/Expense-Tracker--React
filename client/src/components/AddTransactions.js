@@ -1,3 +1,4 @@
+/* Designed & coded by Sandra Ashipala <https://github.com/sandramsc> */
 import React, {useState, useContext} from 'react';
 import { GlobalContext } from '../context/GlobalState';
 
