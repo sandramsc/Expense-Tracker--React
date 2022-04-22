@@ -1,3 +1,4 @@
+/* Designed & coded by Sandra Ashipala <https://github.com/sandramsc> */
 export default (state, action) => {
     switch(action.type){
         case 'GET_TRANSACTIONS':
