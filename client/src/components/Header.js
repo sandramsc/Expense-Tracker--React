@@ -1,3 +1,4 @@
+/* Designed & coded by Sandra Ashipala <https://github.com/sandramsc> */
 import React from 'react';
 
 export const Header = () => {
