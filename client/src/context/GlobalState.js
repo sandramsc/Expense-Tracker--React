@@ -1,3 +1,4 @@
+/* Designed & coded by Sandra Ashipala <https://github.com/sandramsc> */
 import React, { create, createContext, useReducer } from 'react';
 import AppReducer from './AppReducer';
 import axios from 'axios';
